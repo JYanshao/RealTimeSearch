@@ -1,0 +1,5 @@
+**/Pods
+RealTimeSearch.xcworkspace
+
+**/xcuserdata/
+Podfile.lock
